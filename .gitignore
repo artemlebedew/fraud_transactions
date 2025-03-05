@@ -2,3 +2,6 @@ env
 db_config.json
 
 py_scripts/__pycache__/
+
+archive/*
+!archive/
